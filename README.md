@@ -30,19 +30,19 @@ This project focuses on the shift from traditional, exam-based education to a mo
 
 ### 🔹 Homepage
 
-![Homepage](images/img1.png)
+![Homepage](img1.png)
 
 ### 🔹 Learning Content
 
-![Content](images/img2.png)
+![Content](img2.png)
 
 ### 🔹 Video & Audio Section
 
-![Media](images/img3.png)
+![Media](img3.png)
 
 ### 🔹 Map & Footer
 
-![Map](images/img4.png)
+![Map](img4.png)
 
 ---
 
