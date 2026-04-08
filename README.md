@@ -24,6 +24,29 @@ This project focuses on the shift from traditional, exam-based education to a mo
 
 ---
 
+---
+
+## 🖥️ Preview
+
+### 🔹 Homepage
+
+![Homepage](images/img1.png)
+
+### 🔹 Learning Content
+
+![Content](images/img2.png)
+
+### 🔹 Video & Audio Section
+
+![Media](images/img3.png)
+
+### 🔹 Map & Footer
+
+![Map](images/img4.png)
+
+---
+
+
 ## 🧠 Concept
 
 Actex is built around one core belief:
