@@ -24,25 +24,23 @@ This project focuses on the shift from traditional, exam-based education to a mo
 
 ---
 
----
-
 ## 🖥️ Preview
 
 ### 🔹 Homepage
 
-![Homepage](img1.png)
+![Homepage](images/img1.png)
 
 ### 🔹 Learning Content
 
-![Content](img2.png)
+![Content](images/img2.png)
 
 ### 🔹 Video & Audio Section
 
-![Media](img3.png)
+![Media](images/img3.png)
 
 ### 🔹 Map & Footer
 
-![Map](img4.png)
+![Map](images/img4.png)
 
 ---
 
